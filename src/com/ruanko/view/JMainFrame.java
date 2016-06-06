@@ -310,6 +310,4 @@ public class JMainFrame extends JFrame {
 		
 		return helpMenu;
 	}
-	
-	// ×¢ÊÍ
 }
